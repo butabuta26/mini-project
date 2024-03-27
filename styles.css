@@ -1,0 +1,67 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/abstract-pixel-rain-background_23-2148365108.jpg?t=st=1711546357~exp=1711549957~hmac=c03b06705d874804ff4112fcac14553fb905dff134ad095795860646dc45f144&w=740);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header{
+    color: white;
+    border: 5px solid white;
+    border-radius: 40px;
+    text-align: center;
+    margin-top: 10px;
+    background-image: radial-gradient(#1b6ae9, #110944);
+}
+
+#small_header{
+    font-size: 40px;
+}
+
+#big_header{
+    font-size: 80px;
+    margin-top: -30px;
+}
+
+#info{
+    font-size: 25px;
+    margin-top: -50px;
+}
+
+#button1{
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    background-color: #110944;
+    color: white;
+    border-radius: 50px;
+    padding: 10px 20px;
+    font-size: medium;
+    border-color: white;
+    margin-left: -40px;
+}
+
+#button2{
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    background-color: #110944;
+    color: white;
+    border-radius: 50px;
+    padding: 10px 20px;
+    font-size: medium;
+    border-color: white;
+}
+
+#button3{
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    background-color: #110944;
+    color: white;
+    border-radius: 50px;
+    padding: 10px 20px;
+    font-size: medium;
+    border-color: white;
+}
+
